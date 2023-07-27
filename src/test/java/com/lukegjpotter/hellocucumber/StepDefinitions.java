@@ -28,6 +28,6 @@ public class StepDefinitions {
 
 class IsItFriday {
     static String isItFriday(String today) {
-        return null;
+        return "Nope";
     }
 }
