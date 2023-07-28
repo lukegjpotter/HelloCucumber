@@ -1,4 +1,4 @@
-package com.lukegjpotter.hellocucumber;
+package com.lukegjpotter.hellocucumber.isitfriday;
 
 public class IsItFriday {
 

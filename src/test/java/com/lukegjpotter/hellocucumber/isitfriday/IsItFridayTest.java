@@ -1,4 +1,4 @@
-package com.lukegjpotter.hellocucumber;
+package com.lukegjpotter.hellocucumber.isitfriday;
 
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
@@ -6,7 +6,7 @@ import io.cucumber.java.en.When;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class StepDefinitions {
+public class IsItFridayTest {
 
     private String today, actualAnswer;
 
