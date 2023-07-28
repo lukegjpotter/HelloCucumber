@@ -19,6 +19,10 @@ dependencies {
     testImplementation("io.cucumber:cucumber-junit:7.13.0")
     testImplementation("io.cucumber:cucumber-junit-platform-engine:7.13.0")
     testImplementation("org.junit.platform:junit-platform-suite")
+
+    // Selenium Libraries.
+    testImplementation("org.seleniumhq.selenium:selenium-java:4.10.0")
+    testImplementation("io.github.bonigarcia:webdrivermanager:5.4.1")
 }
 
 tasks.test {
